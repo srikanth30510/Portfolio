@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Godavri Srikanth.", "Designer.", "Developer.", "Full Stack Developer."],
+      strings: ["Godavri Srikanth.", "UI/UX Designer.", "Frontend Developer."],
       typeSpeed: 100,
       loop: true,
     });
