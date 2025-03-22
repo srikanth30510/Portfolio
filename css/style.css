@@ -496,6 +496,14 @@ nav ul li a {
   padding-bottom: 60px;
   position: relative;
 }
+.row {
+  display: flex;
+  justify-content: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
 
 #journal-blog {
   background: #fff;
